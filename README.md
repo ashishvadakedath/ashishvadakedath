@@ -6,5 +6,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="www.linkedin.com/in/ashishvadakedath">linkedin</a></p>
-<p align="left">✉️<a href="ashishvadakedath@gmail.com">ashishvadakedath@gmail.com</p>
+<p align="left">✉️ <a href="ashishvadakedath@gmail.com">ashishvadakedath@gmail.com</p>
 
